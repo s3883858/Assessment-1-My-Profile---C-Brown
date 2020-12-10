@@ -21,12 +21,15 @@ I Looked on open university and given I work full time and have 2 young kids the
 I currently work very closely with several Digital forensic officers who I assist regularly with minor tasks. I wish to gain qualification to hopefully gain recognition for the work I do in the area and move beyond that to the world of cybersecurity, although I do not know what that may be or look like for me at this point in time. I am only study part-time so have a bit of time to work that out.
 I understand that a job in cybersecurity can be rewarding but very stressful at the same time, however in saying that I have worked in counter-terrorism roles which is extremely stressful which is not a job that you want to get wrong. I envisage cybersecurity to be much the same which for me would be a seamless transition.
 
-
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# IDEAL JOB:
+Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’.
+
+## Penetration Tester...
+https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc
+
 ### Header 3
 
 - Bulleted
