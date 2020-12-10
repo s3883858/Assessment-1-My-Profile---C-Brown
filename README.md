@@ -1,7 +1,9 @@
 ## Welcome to my RMIT Assessment 1: MY PROFILE
 
 Name: Corey Brown
+
 Student #: S3883858
+
 Student email: s3883858@student.rmit.edu.au
 
 
