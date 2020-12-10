@@ -22,10 +22,11 @@ I currently work very closely with several Digital forensic officers who I assis
 I understand that a job in cybersecurity can be rewarding but very stressful at the same time, however in saying that I have worked in counter-terrorism roles which is extremely stressful which is not a job that you want to get wrong. I envisage cybersecurity to be much the same which for me would be a seamless transition.
 
 ```markdown
-Syntax highlighted code block
 
 # IDEAL JOB:
-Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’.
+Ideal or Dream job may be working for the Australian Defense force, National Security Agency, 
+Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or 
+Security Architect and do some ‘white hat hacking’.
 
 ## Penetration Tester...
 [Link](https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
