@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my RMIT Assessment 1: MY PROFILE
 
-You can use the [editor on GitHub](https://github.com/s3883858/Assessment-1-My-Profile---C-Brown/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Name: Corey Brown
+Student #: S3883858
+Student email: s3883858@student.rmit.edu.au
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
