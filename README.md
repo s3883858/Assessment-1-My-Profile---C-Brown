@@ -8,9 +8,9 @@ Student email: s3883858@student.rmit.edu.au
 
 ## Background information:
 
-#Nationality: Australian
+# Nationality: Australian
 
-#Education to date:
+# Education to date:
 
 •	Advanced Diploma in Public Safety (Police investigations)
 
@@ -63,12 +63,12 @@ I understand that a job in cybersecurity can be rewarding but very stressful at 
 
 ```markdown
 
-# IDEAL JOB:
+## IDEAL JOB:
 Ideal or Dream job may be working for the Australian Defense force, National Security Agency, 
 Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or 
 Security Architect and do some ‘white hat hacking’.
 
-### Penetration Tester...
+## Penetration Tester...
 [PROTECT Kinetic IT](https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
 ## Description of Job:
 
