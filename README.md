@@ -7,9 +7,20 @@ Student #: S3883858
 Student email: s3883858@student.rmit.edu.au
 
 
-### Markdown
+### What is your interest in IT? and When did your interest in IT start?
+At a very young age I have been interested in computers, computing and computer games. When I got my first Nintendo 64 I was hooked. This led to tinkering with my first commodore 64 and beyond. I have always enjoyed tinkering with computer hardware and software which has assisted me in my career path as a police officer and beyond. I am self-taught and have recently become increasingly interest in cybersecurity. As such I decided to finally obtain some formal qualification that will assist me in my professional career or branch it off in a different direction.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What makes IT interesting for you?
+The endless possibilities, looking back and seeing how IT is incorporating itself into every facet of life (both good and bad).
+I am a sci-fi enthusiast and love watching futurist movies to see how other may perceive the future becoming (albeit most of them are dire! But entertaining…)
+
+### What lead to me studying at RMIT:
+I Looked on open university and given I work full time and have 2 young kids the course had to be completely online (also covid-19 consideration) as well as several follow-on course that I am interest in after this course lead me to RMIT 
+
+### What am I hoping or expecting to learn during my studies?
+I currently work very closely with several Digital forensic officers who I assist regularly with minor tasks. I wish to gain qualification to hopefully gain recognition for the work I do in the area and move beyond that to the world of cybersecurity, although I do not know what that may be or look like for me at this point in time. I am only study part-time so have a bit of time to work that out.
+I understand that a job in cybersecurity can be rewarding but very stressful at the same time, however in saying that I have worked in counter-terrorism roles which is extremely stressful which is not a job that you want to get wrong. I envisage cybersecurity to be much the same which for me would be a seamless transition.
+
 
 ```markdown
 Syntax highlighted code block
