@@ -63,20 +63,21 @@ I understand that a job in cybersecurity can be rewarding but very stressful at 
 
 ```markdown
 
-## IDEAL JOB:
+IDEAL JOB:
 Ideal or Dream job may be working for the Australian Defense force, National Security Agency, 
 Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or 
 Security Architect and do some ‘white hat hacking’.
 
-## Penetration Tester...
+# Penetration Tester...
 [PROTECT Kinetic IT](https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
+
 ## Description of Job:
 
 ## Skills, qualifications and experience required for the position:
 
 ## Skills, qualifications and experience i currently have: 
 
-### Security Architect (Cyber)
+# Security Architect (Cyber)
 [link] (https://www.seek.com.au/job/51106656?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
 
 ## Description of Job:
@@ -96,15 +97,15 @@ Security Architect and do some ‘white hat hacking’.
 ```
 
 
-## Personality Profile
+# Personality Profile
 
-# Myers-Briggs test results:
+Myers-Briggs test results:
 [Link] (https://www.16personalities.com/infj-personality) 
 
-# Learning styles test results:
+Learning styles test results:
 [link] (https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1) 
  
- # Carecareers test results
+ Carecareers test results
  [link] (https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM)
  
  
