@@ -69,7 +69,7 @@ Australian Secret Intelligence Service (ASIS) as a security analyst, Security En
 Security Architect and do some ‘white hat hacking’.
 
 # Penetration Tester...
-[PROTECT Kinetic IT](https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
+[link](https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
 
 ## Description of Job:
 
@@ -99,13 +99,16 @@ Security Architect and do some ‘white hat hacking’.
 
 # Personality Profile
 
-Myers-Briggs test results:
+# Myers-Briggs test results:
+
 [Link] (https://www.16personalities.com/infj-personality) 
 
-Learning styles test results:
+# Learning styles test results:
+
 [link] (https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1) 
  
- Carecareers test results
+# Carecareers test results
+
  [link] (https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM)
  
  
