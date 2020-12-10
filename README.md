@@ -28,7 +28,8 @@ Syntax highlighted code block
 Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’.
 
 ## Penetration Tester...
-https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc
+[Link](https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
+![Image]()
 
 ### Header 3
 
