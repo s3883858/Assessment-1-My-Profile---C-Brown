@@ -6,6 +6,26 @@ Student #: S3883858
 
 Student email: s3883858@student.rmit.edu.au
 
+## Background information:
+#Nationality: Australian
+#Education to date:
+•	Advanced Diploma in Public Safety (Police investigations)
+•	Detective Training Course 
+•	Diploma of Justice Administration
+•	Investigating Interviewing Level II
+•	Sergeants – Supervision Development Program
+•	Diploma of Public Safety (Policing)
+•	Operations Investigators Course
+•	Human Source Management 
+•	Certificate III in Government  
+•	Risk Assessment and Management
+•	Public Order Response (Riot training)
+•	Counter Terrorism Awareness Training 
+•	Operational Safety Training and Use of Force
+•	Tier 2 Cybercrime investigations course (AFP)
+•	Tactical Investigations Course – Warrant execution
+•	Glock armorer’s certificate 
+•	Digital Forensic Examination Document Examination
 
 ### What is your interest in IT? and When did your interest in IT start?
 At a very young age I have been interested in computers, computing and computer games. When I got my first Nintendo 64 I was hooked. This led to tinkering with my first commodore 64 and beyond. I have always enjoyed tinkering with computer hardware and software which has assisted me in my career path as a police officer and beyond. I am self-taught and have recently become increasingly interest in cybersecurity. As such I decided to finally obtain some formal qualification that will assist me in my professional career or branch it off in a different direction.
@@ -28,12 +48,22 @@ Ideal or Dream job may be working for the Australian Defense force, National Sec
 Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or 
 Security Architect and do some ‘white hat hacking’.
 
-## Penetration Tester...
-[Link](https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
-![Image]()
+### Penetration Tester...
+[PROTECT Kinetic IT](https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
+## Description of Job:
 
-### Header 3
+## Skills, qualifications and experience required for the position:
 
+## Skills, qualifications and experience i currently have: 
+
+### Security Architect (Cyber)
+[Leidos Australai Pty Ltd](https://www.seek.com.au/job/51106656?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
+
+## Description of Job:
+
+## Skills, qualifications and experience required for the position:
+
+## Skills, qualifications and experience i currently have: 
 - Bulleted
 - List
 
