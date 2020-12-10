@@ -6,7 +6,7 @@ Student #: S3883858
 
 Student email: s3883858@student.rmit.edu.au
 
-## Background information:
+### Background information:
 
 # Nationality: Australian
 
@@ -95,9 +95,8 @@ Security Architect and do some ‘white hat hacking’.
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Personality Profile
+## Personality Profile
 
 # Myers-Briggs test results:
 (https://www.16personalities.com/infj-personality) 
