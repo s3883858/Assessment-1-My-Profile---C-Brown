@@ -4,6 +4,9 @@ Name: Corey Brown
 Student #: S3883858
 Student email: s3883858@student.rmit.edu.au
 
+## GENERAL QUSTIONS:
+What is your interest interest in IT?
+At a very young age I have been interested in computers, computing and computer games. When I got my first Nintendo 64 I was hooked. This led to tinkering with my first commodore 64 and beyond. I have always enjoyed tinkering with computer hardware and software which has assisted me in my career path as a police officer and beyond. I am self-taught and have recently become increasingly interest in cybersecurity. As such I decided to finally obtain some formal qualification that will assist me in my professional career or branch it off in a different direction.
 
 ### Markdown
 
