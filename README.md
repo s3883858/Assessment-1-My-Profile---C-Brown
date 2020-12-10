@@ -7,25 +7,45 @@ Student #: S3883858
 Student email: s3883858@student.rmit.edu.au
 
 ## Background information:
+
 #Nationality: Australian
+
 #Education to date:
+
 •	Advanced Diploma in Public Safety (Police investigations)
+
 •	Detective Training Course 
+
 •	Diploma of Justice Administration
+
 •	Investigating Interviewing Level II
+
 •	Sergeants – Supervision Development Program
+
 •	Diploma of Public Safety (Policing)
+
 •	Operations Investigators Course
+
 •	Human Source Management 
+
 •	Certificate III in Government  
+
 •	Risk Assessment and Management
+
 •	Public Order Response (Riot training)
+
 •	Counter Terrorism Awareness Training 
+
 •	Operational Safety Training and Use of Force
+
 •	Tier 2 Cybercrime investigations course (AFP)
+
 •	Tactical Investigations Course – Warrant execution
+
 •	Glock armorer’s certificate 
+
 •	Digital Forensic Examination Document Examination
+
 
 ### What is your interest in IT? and When did your interest in IT start?
 At a very young age I have been interested in computers, computing and computer games. When I got my first Nintendo 64 I was hooked. This led to tinkering with my first commodore 64 and beyond. I have always enjoyed tinkering with computer hardware and software which has assisted me in my career path as a police officer and beyond. I am self-taught and have recently become increasingly interest in cybersecurity. As such I decided to finally obtain some formal qualification that will assist me in my professional career or branch it off in a different direction.
