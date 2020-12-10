@@ -97,7 +97,18 @@ Security Architect and do some ‘white hat hacking’.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Personality Profile
+
+# Myers-Briggs test results:
+(https://www.16personalities.com/infj-personality) 
+
+# Learning styles test results:
+(https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1) 
+ 
+ # Carecareers test results
+ (https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM)
+ 
+ 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s3883858/Assessment-1-My-Profile---C-Brown/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
