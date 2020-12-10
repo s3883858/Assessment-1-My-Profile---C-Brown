@@ -94,7 +94,7 @@ Security Architect and do some ‘white hat hacking’.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](f3c5292cec0e05e4272d9bf9146f390d366481d0.png)
+[Link](url) and ![Image]()
 ```
 
 
