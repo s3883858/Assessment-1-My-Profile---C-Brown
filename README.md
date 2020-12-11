@@ -65,7 +65,7 @@ I understand that a job in cybersecurity can be rewarding but very stressful at 
 
 [Myer-Briggs Test Results] (https://www.16personalities.com/infj-personality) 
 
-## Q) What do the results of these tests mean for you?
+### Q) What do the results of these tests mean for you?
 It cements what I think and feel quite often and is scary that a few questions can provide such a details accurate description of my personality.
 I know my strengths and weaknesses and what to be aware of and why I do the things that I do
 
@@ -73,7 +73,7 @@ I know my strengths and weaknesses and what to be aware of and why I do the thin
 I am adaptive to all situation and am happy to work with what I have or the status quo if I feel the same, however I am happy to speak up which can cause issues or rifts.
 In a group setting I see the end goal and work my way back on how to achieve that goal where as others may not see that far ahead.
 
-# Q) How should you take this into account when forming a team?
+### Q) How should you take this into account when forming a team?
 I am adaptable and easy going
 Dedicated to task management and am rational about outcomes and what is viable.
 I have a keen eye for detail, hardworking and am able to get everyone on task if need be
@@ -81,30 +81,30 @@ I have a keen eye for detail, hardworking and am able to get everyone on task if
 
 [Learing Styles Test Results] (https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1) 
  
-# Q) What do the results of these tests mean for you?
+### Q) What do the results of these tests mean for you?
 Agreed, I prefer to lean by seeing and doing
 
-# Q) How do you think these results may influence your behaviour in a team?
+### Q) How do you think these results may influence your behaviour in a team?
 My team needs to be able to articular things well and concisely so I can visualise things in my head
 
-# Q) How should you take this into account when forming a team?
+### Q) How should you take this into account when forming a team?
 I am well rounded in all three learning styles so I can fit into any group and make it work
 
  
 [Carecareers Test Results] (https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM)
 
-# Q) What do the results of these tests mean for you?
+### Q) What do the results of these tests mean for you?
 I can be ambitious and do things because they are right, not because they are easy or popular at the time. I am driven once a project has commenced and I like to see it through to the end and get the job done.
 I do like details, data, filtering through things and organisation
 
-# Q) How do you think these results may influence your behaviour in a team?
+### Q) How do you think these results may influence your behaviour in a team?
 I am an organiser and happy to take on this role if need be to get the team all on the same track to achieve our desired outcome.
 
-# Q) How should you take this into account when forming a team?
+### Q) How should you take this into account when forming a team?
 I can fit into any team and fill any role that is required, I do like things in order and have a bit of OCD when it comes to things being in order and presented correctly
 
  
-# Ideal Job:
+## Ideal Job:
 
 Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’.
 
