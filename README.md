@@ -65,11 +65,11 @@ I understand that a job in cybersecurity can be rewarding but very stressful at 
 
 [Myer-Briggs Test Results] (https://www.16personalities.com/infj-personality) 
 
-# Q) What do the results of these tests mean for you?
+## Q) What do the results of these tests mean for you?
 It cements what I think and feel quite often and is scary that a few questions can provide such a details accurate description of my personality.
 I know my strengths and weaknesses and what to be aware of and why I do the things that I do
 
-# Q) How do you think these results may influence your behaviour in a team?
+### Q) How do you think these results may influence your behaviour in a team?
 I am adaptive to all situation and am happy to work with what I have or the status quo if I feel the same, however I am happy to speak up which can cause issues or rifts.
 In a group setting I see the end goal and work my way back on how to achieve that goal where as others may not see that far ahead.
 
