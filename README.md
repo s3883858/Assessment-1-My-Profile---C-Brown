@@ -6,11 +6,11 @@ Student #: S3883858
 
 Student email: s3883858@student.rmit.edu.au
 
-### Background information:
+## Background information:
 
 Nationality: Australian
 
-# Education to date:
+## Education to date:
 
 •	Advanced Diploma in Public Safety (Police investigations)
 
@@ -61,14 +61,22 @@ I Looked on open university and given I work full time and have 2 young kids the
 I currently work very closely with several Digital forensic officers who I assist regularly with minor tasks. I wish to gain qualification to hopefully gain recognition for the work I do in the area and move beyond that to the world of cybersecurity, although I do not know what that may be or look like for me at this point in time. I am only study part-time so have a bit of time to work that out.
 I understand that a job in cybersecurity can be rewarding but very stressful at the same time, however in saying that I have worked in counter-terrorism roles which is extremely stressful which is not a job that you want to get wrong. I envisage cybersecurity to be much the same which for me would be a seamless transition.
 
-```markdown
+# Personality Profile
+
+[Myer-Briggs Test Results] (https://www.16personalities.com/infj-personality) 
+
+[Learing Styles Test Results] (https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1) 
+ 
+[Carecareers Test Results] (https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM)
+ 
+ 
 # Ideal Job:
 
 Ideal or Dream job may be working for the Australian Defense force, National Security Agency, 
 Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or 
 Security Architect and do some ‘white hat hacking’.
 
-# Penetration Tester...
+Penetration Tester...
 
 [Link] (https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
 
@@ -96,18 +104,6 @@ Security Architect and do some ‘white hat hacking’.
 
 [Link](url) and ![Image]()
 ```
-
-
-# Personality Profile
-
-[Myer-Briggs Test Results] (https://www.16personalities.com/infj-personality) 
-
-[Learing Styles Test Results] (https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1) 
- 
-[Carecareers Test Results] (https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM)
- 
- 
-
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s3883858/Assessment-1-My-Profile---C-Brown/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
