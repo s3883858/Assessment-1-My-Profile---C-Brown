@@ -65,26 +65,74 @@ I understand that a job in cybersecurity can be rewarding but very stressful at 
 
 [Myer-Briggs Test Results] (https://www.16personalities.com/infj-personality) 
 
+# Q) What do the results of these tests mean for you?
+It cements what I think and feel quite often and is scary that a few questions can provide such a details accurate description of my personality.
+I know my strengths and weaknesses and what to be aware of and why I do the things that I do
+
+# Q) How do you think these results may influence your behaviour in a team?
+I am adaptive to all situation and am happy to work with what I have or the status quo if I feel the same, however I am happy to speak up which can cause issues or rifts.
+In a group setting I see the end goal and work my way back on how to achieve that goal where as others may not see that far ahead.
+
+# Q) How should you take this into account when forming a team?
+I am adaptable and easy going
+Dedicated to task management and am rational about outcomes and what is viable.
+I have a keen eye for detail, hardworking and am able to get everyone on task if need be
+
+
 [Learing Styles Test Results] (https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1) 
  
-[Carecareers Test Results] (https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM)
+# Q) What do the results of these tests mean for you?
+Agreed, I prefer to lean by seeing and doing
+
+# Q) How do you think these results may influence your behaviour in a team?
+My team needs to be able to articular things well and concisely so I can visualise things in my head
+
+# Q) How should you take this into account when forming a team?
+I am well rounded in all three learning styles so I can fit into any group and make it work
+
  
+[Carecareers Test Results] (https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM)
+
+# Q) What do the results of these tests mean for you?
+I can be ambitious and do things because they are right, not because they are easy or popular at the time. I am driven once a project has commenced and I like to see it through to the end and get the job done.
+I do like details, data, filtering through things and organisation
+
+# Q) How do you think these results may influence your behaviour in a team?
+I am an organiser and happy to take on this role if need be to get the team all on the same track to achieve our desired outcome.
+
+# Q) How should you take this into account when forming a team?
+I can fit into any team and fill any role that is required, I do like things in order and have a bit of OCD when it comes to things being in order and presented correctly
+
  
 # Ideal Job:
 
-Ideal or Dream job may be working for the Australian Defense force, National Security Agency, 
-Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or 
-Security Architect and do some ‘white hat hacking’.
+Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’.
 
 Penetration Tester...
 
 [Link] (https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
 
 ## Description of Job:
+Kinetic IT play a central role in defending some of Australia's most important organisations and the critical services they provide to our local communities by offerings to supportive approach to protecting our customers and their digital assets and the delivery of a wide range of security and risk assurance services
+
+The Job advertised is for an additional Penetration Tester. To assist in attempting to breach computer and network security systems, delivering clear, articulate reports, and spending time researching vulnerabilities and creating tools to assist with improving the security posture of our customers.
 
 ## Skills, qualifications and experience required for the position:
+- Great communication skills, able to communicate with confidence to stakeholders
+- The application of penetration testing equipment 
+- Lateral thinking and problem solving skills
+- Developed Analytical skills
+- A passion for Cyber Security and the ability to clearly articulate security concepts to others
+- A solid understanding and experience in ethical hacking
+- Excellent written and verbal communication skills
+- Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded
 
-## Skills, qualifications and experience i currently have: 
+## Skills, qualifications and experience I currently have: 
+All of the above bar the skill IT specifics and qualifications
+Knowledge and application skills of penetration testing
+A solid understanding and experience in ethical hacking
+And
+Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded
 
 # Security Architect (Cyber)
 [link] (https://www.seek.com.au/job/51106656?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
