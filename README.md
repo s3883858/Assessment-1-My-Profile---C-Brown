@@ -163,20 +163,3 @@ hold a NV1 Australian Government Security Clearance and be eligible to upgrade t
 None of the above qualifications 
 
 I hold a NV1 security clearance with Australian Government Security Clearance
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image]()
-```
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s3883858/Assessment-1-My-Profile---C-Brown/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
