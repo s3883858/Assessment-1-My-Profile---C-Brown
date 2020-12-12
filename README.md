@@ -1,5 +1,7 @@
 ## Welcome to my RMIT Assessment 1: MY PROFILE
 
+[image] (https://github.com/s3883858/Assessment-1-My-Profile---C-Brown/commit/f745755950f6c7d8b4f6e9b21d979bb57a57cf79#commitcomment-45049896)
+
 Name: Corey Brown
 
 Student #: S3883858
