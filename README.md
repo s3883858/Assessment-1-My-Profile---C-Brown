@@ -1,6 +1,6 @@
 ## Welcome to my RMIT Assessment 1: MY PROFILE
 
-[image] (2999AC0252246544178_P.jpg)
+![](https://github.com/s3883858/Assessment-1-My-Profile---C-Brown/blob/main/2999AC0252246544178_P.jpg width=10)
 
 Name: Corey Brown
 
