@@ -159,7 +159,7 @@ hold a NV1 Australian Government Security Clearance and be eligible to upgrade t
 
 ## Skills, qualifications and experience i currently have: 
 None of the above qualifications 
-Hold a NV1 security clearance with Australian Government Security Clearance
+I hold a NV1 security clearance with Australian Government Security Clearance
 
 
 - Bulleted
