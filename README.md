@@ -35,7 +35,7 @@ Nationality: Australian
 <li>Glock armorer’s certificate</li> 
 <li>Digital Forensic Examination Document Examination</li>
 </ul>
-<body>
+
 
 <h1>What is your interest in IT? and When did your interest in IT start?</h1>
 
@@ -55,10 +55,7 @@ I am a sci-fi enthusiast and love watching futurist movies to see how other may 
 <p4>I currently work very closely with several Digital forensic officers who I assist regularly with minor tasks. I wish to gain qualification to hopefully gain recognition for the work I do in the area and move beyond that to the world of cybersecurity, although I do not know what that may be or look like for me at this point in time. I am only study part-time so have a bit of time to work that out.
 I understand that a job in cybersecurity can be rewarding but very stressful at the same time, however in saying that I have worked in counter-terrorism roles which is extremely stressful which is not a job that you want to get wrong. I envisage cybersecurity to be much the same which for me would be a seamless transition.</p4>
 
-</body>
-
-<body2>
-<h2>Personality Profile</h2>
+<h1>Personality Profile</h1>
 
 <a href="https://www.16personalities.com/infj-personality">Myer-Briggs Test Results</a> 
 
@@ -67,7 +64,6 @@ I understand that a job in cybersecurity can be rewarding but very stressful at 
  I know my strengths and weaknesses and what to be aware of and why I do the things that I do</p1>
 
 <h2>Q) How do you think these results may influence your behaviour in a team?</h2>
-
 <p2>I am adaptive to all situation and am happy to work with what I have or the status quo if I feel the same, however I am happy to speak up which can cause issues or rifts.
 In a group setting I see the end goal and work my way back on how to achieve that goal where as others may not see that far ahead.</p2>
 
@@ -79,14 +75,14 @@ I have a keen eye for detail, hardworking and am able to get everyone on task if
 
 <a href="https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1">Learing Styles Test Results</a> 
  
-### Q) What do the results of these tests mean for you?
-Agreed, I prefer to lean by seeing and doing
+<h2>Q) What do the results of these tests mean for you?</h2>
+<p3>Agreed, I prefer to lean by seeing and doing</p3>
 
-### Q) How do you think these results may influence your behaviour in a team?
-My team needs to be able to articular things well and concisely so I can visualise things in my head
+<h2>Q) How do you think these results may influence your behaviour in a team?</h2>
+<p4>My team needs to be able to articular things well and concisely so I can visualise things in my head</p4>
 
-### Q) How should you take this into account when forming a team?
-I am well rounded in all three learning styles so I can fit into any group and make it work
+<h2>Q) How should you take this into account when forming a team?</h2>
+(I am well rounded in all three learning styles so I can fit into any group and make it work
 
 <a href="https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM">Carecareers Test Results</a>
 
@@ -99,8 +95,6 @@ I am an organiser and happy to take on this role if need be to get the team all 
 
 ### Q) How should you take this into account when forming a team?
 I can fit into any team and fill any role that is required, I do like things in order and have a bit of OCD when it comes to things being in order and presented correctly
-
-</body2>
  
 ## Ideal Job:
 
