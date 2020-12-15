@@ -53,7 +53,7 @@ I am a sci-fi enthusiast and love watching futurist movies to see how other may 
 <p4>I currently work very closely with several Digital forensic officers who I assist regularly with minor tasks. I wish to gain qualification to hopefully gain recognition for the work I do in the area and move beyond that to the world of cybersecurity, although I do not know what that may be or look like for me at this point in time. I am only study part-time so have a bit of time to work that out.
 I understand that a job in cybersecurity can be rewarding but very stressful at the same time, however in saying that I have worked in counter-terrorism roles which is extremely stressful which is not a job that you want to get wrong. I envisage cybersecurity to be much the same which for me would be a seamless transition.</p4>
 
-<h1 style="color: red;">Personality Profile</h1>
+<h1 style="color: blue;">Personality Profile</h1>
 <body>
 <a href="https://www.16personalities.com/infj-personality">Myer-Briggs Test Results</a> 
 
