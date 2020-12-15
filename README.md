@@ -76,7 +76,9 @@ I sometime come across to people as being confrontational or want to run things 
 <a href="https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1">Learing Styles Test Results</a> 
  
 <h2>Q) What do the results of these tests mean for you?</h2>
-<p1>Agreed, I prefer to lean by seeing and doing</p1>
+<p1>Agreed, I prefer to lean by seeing and doing. I am very good at learning something new by watching someone do it and then I do it side by side.
+I find that I am fairly balanced in all 3 learning styles and can change from one to another seamlessly
+</p1>
 
 <h2>Q) How do you think these results may influence your behaviour in a team?</h2>
 <p2>My team needs to be able to articular things well and concisely so I can visualise things in my head</p2>
