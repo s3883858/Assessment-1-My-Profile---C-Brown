@@ -99,7 +99,7 @@ I do like details, data, filtering through things and organisation</p1>
 </body3>
 
 <body4>
- <h1>Ideal IT Job:</h1>
+<h1 style="color: blue;">Ideal IT Job:</h1>
 
 <p1>Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’</p1>.
 
