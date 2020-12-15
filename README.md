@@ -1,7 +1,9 @@
-<!DOCTYPEhtml>
+<!DOCTYPE html>
 <html>
  
- <head>Welcome to my RMIT Assessment 1: MY PROFILE</head>
+ <head>
+ Welcome to my RMIT Assessment 1: MY PROFILE
+</head>
  
  <body>
  
@@ -54,11 +56,11 @@ Nationality: Australian
 •	Digital Forensic Examination Document Examination
 
 
-### What is your interest in IT? and When did your interest in IT start?
-At a very young age I have been interested in computers, computing and computer games. When I got my first Nintendo 64, I was hooked. This led to tinkering with my first Commodore 64 and beyond. I have always enjoyed tinkering with computer hardware and software which has assisted me in my career path as a police officer and beyond. I am self-taught and have recently become increasingly interest in cybersecurity. As such I decided to finally obtain some formal qualification that will assist me in my professional career or branch it off in a different direction.
+<h1>What is your interest in IT? and When did your interest in IT start?</h1>
+<p>At a very young age I have been interested in computers, computing and computer games. When I got my first Nintendo 64, I was hooked. This led to tinkering with my first Commodore 64 and beyond. I have always enjoyed tinkering with computer hardware and software which has assisted me in my career path as a police officer and beyond. I am self-taught and have recently become increasingly interest in cybersecurity. As such I decided to finally obtain some formal qualification that will assist me in my professional career or branch it off in a different direction.</P>
 
 ### What makes IT interesting for you?
-The endless possibilities, looking back and seeing how IT is incorporating itself into every facet of life (both good and bad).
+<p>The endless possibilities, looking back and seeing how IT is incorporating itself into every facet of life (both good and bad).
 I am a sci-fi enthusiast and love watching futurist movies to see how other may perceive the future becoming (albeit most of them are dire! But entertaining…)
 
 ### What lead to me studying at RMIT:
@@ -169,4 +171,4 @@ None of the above qualifications
 
 I hold a NV1 security clearance with Australian Government Security Clearance
 
-<body/>
+</html>
