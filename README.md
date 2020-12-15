@@ -98,6 +98,8 @@ I do like details, data, filtering through things and organisation</p1>
 <p3>I can fit into any team and fill any role that is required, I do like things in order and have a bit of OCD when it comes to things being in order and presented correctly</p3>
 </body3>
 
+<body4>
+ 
 <h1>Ideal IT Job:</h1>
 
 <p1>Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’</p1>.
@@ -160,7 +162,7 @@ As a Security Architect you will be responsible for managing the security design
 
 <h3>Skills, qualifications and experience i currently have:<h3> 
  <p1>None of the above qualifications</p1>
-<p2>I hold a NV1 security clearance with Australian Government Security Clearance</p2>
-
+<p1>I hold a NV1 security clearance with Australian Government Security Clearance</p1>
+ </body4>
 
 </html>
