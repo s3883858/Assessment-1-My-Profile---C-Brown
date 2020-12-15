@@ -4,7 +4,7 @@
  Welcome to my RMIT Assessment 1: MY PROFILE
 </head>
   
-<imag src="2999AC0252246544178_P.jpg">
+<img src="2999AC0252246544178_P.jpg" alt="personal mug-shot">
 
 <h1>Name: Corey Brown</h1>
 <h2>Student #: S3883858</h2>
@@ -57,7 +57,7 @@ I am a sci-fi enthusiast and love watching futurist movies to see how other may 
 I understand that a job in cybersecurity can be rewarding but very stressful at the same time, however in saying that I have worked in counter-terrorism roles which is extremely stressful which is not a job that you want to get wrong. I envisage cybersecurity to be much the same which for me would be a seamless transition.</p4>
 
 <h1>Personality Profile</h1>
-
+<body>
 <a href="https://www.16personalities.com/infj-personality">Myer-Briggs Test Results</a> 
 
 <h2>Q) What do the results of these tests mean for you?</h2>
@@ -72,7 +72,8 @@ In a group setting I see the end goal and work my way back on how to achieve tha
 <p3>I am adaptable and easy going
 Dedicated to task management and am rational about outcomes and what is viable.
 I have a keen eye for detail, hardworking and am able to get everyone on task if need be</p3>
-
+</body>
+<body2>
 <a href="https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1">Learing Styles Test Results</a> 
  
 <h2>Q) What do the results of these tests mean for you?</h2>
@@ -83,7 +84,8 @@ I have a keen eye for detail, hardworking and am able to get everyone on task if
 
 <h2>Q) How should you take this into account when forming a team?</h2>
 <p3>I am well rounded in all three learning styles so I can fit into any group and make it work</p3>
-
+</body2>
+<body3>
 <a href="https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM">Carecareers Test Results</a>
 
 <h2>Q) What do the results of these tests mean for you?</h2>
@@ -95,7 +97,7 @@ I do like details, data, filtering through things and organisation</p1>
 
 <h2>Q) How should you take this into account when forming a team?</h2>
 <p3>I can fit into any team and fill any role that is required, I do like things in order and have a bit of OCD when it comes to things being in order and presented correctly</p3>
- 
+</body3>
 ## Ideal Job:
 
 Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’.
