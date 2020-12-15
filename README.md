@@ -72,29 +72,28 @@ In a group setting I see the end goal and work my way back on how to achieve tha
 Dedicated to task management and am rational about outcomes and what is viable.
 I have a keen eye for detail, hardworking and am able to get everyone on task if need be</p3>
 
-
 <a href="https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1">Learing Styles Test Results</a> 
  
 <h2>Q) What do the results of these tests mean for you?</h2>
-<p3>Agreed, I prefer to lean by seeing and doing</p3>
+<p1>Agreed, I prefer to lean by seeing and doing</p1>
 
 <h2>Q) How do you think these results may influence your behaviour in a team?</h2>
-<p4>My team needs to be able to articular things well and concisely so I can visualise things in my head</p4>
+<p2>My team needs to be able to articular things well and concisely so I can visualise things in my head</p2>
 
 <h2>Q) How should you take this into account when forming a team?</h2>
-(I am well rounded in all three learning styles so I can fit into any group and make it work
+<p3>I am well rounded in all three learning styles so I can fit into any group and make it work</p3>
 
 <a href="https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM">Carecareers Test Results</a>
 
-### Q) What do the results of these tests mean for you?
-I can be ambitious and do things because they are right, not because they are easy or popular at the time. I am driven once a project has commenced and I like to see it through to the end and get the job done.
-I do like details, data, filtering through things and organisation
+<h2>Q) What do the results of these tests mean for you?</h2>
+<p1>I can be ambitious and do things because they are right, not because they are easy or popular at the time. I am driven once a project has commenced and I like to see it through to the end and get the job done.
+I do like details, data, filtering through things and organisation</p1>
 
-### Q) How do you think these results may influence your behaviour in a team?
-I am an organiser and happy to take on this role if need be to get the team all on the same track to achieve our desired outcome.
+<h2>Q) How do you think these results may influence your behaviour in a team?</h2>
+<p2>I am an organiser and happy to take on this role if need be to get the team all on the same track to achieve our desired outcome.</p2>
 
-### Q) How should you take this into account when forming a team?
-I can fit into any team and fill any role that is required, I do like things in order and have a bit of OCD when it comes to things being in order and presented correctly
+<h2>Q) How should you take this into account when forming a team?</h2>
+<p3>I can fit into any team and fill any role that is required, I do like things in order and have a bit of OCD when it comes to things being in order and presented correctly</p3>
  
 ## Ideal Job:
 
