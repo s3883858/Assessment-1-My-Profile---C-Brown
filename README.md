@@ -1,7 +1,7 @@
 <html>
  
- <h1>Welcome to my RMIT Assessment 1: MY PROFILE</h1>
-  
+<h1>Welcome to my RMIT Assessment 1: MY PROFILE</h1>
+
 <img src="2999AC0252246544178_P.jpg" alt="personal mug-shot">
 
 <h1>Name: Corey Brown</h1>
