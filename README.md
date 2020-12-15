@@ -134,8 +134,9 @@ Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded<
 [link] (https://www.seek.com.au/job/51106656?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
 
 <h3> Description of Job:<h3>
-<p4>work on high profile, complex projects for the Department of Defence
-As a Security Architect you will be responsible for managing the security design leading to accreditation and certification of software systems. You will:</p4>
+<p1>work on high profile, complex projects for the Department of Defence
+As a Security Architect you will be responsible for managing the security design leading to accreditation and certification of software systems. You will:</p1>
+ 
  <ul>
 <li>Manage the security architecture of the solution design, including the integration with security models of external systems in conjunction with the Chief Security Architect</li>
 <li>Contribute to design decisions associated with security architecture and security controls</li>
@@ -145,16 +146,18 @@ As a Security Architect you will be responsible for managing the security design
 <li>Build and maintain effective working relationships across all levels and influence key stakeholders</li>
 <li>Understand industry best-practice through attending relevant cyber security events and establishing a peer networ.</li>  
  </ul>
-## Skills, qualifications and experience required for the position:
-A Bachelor degree or higher in software engineering, computer science or a related discipline, together with substantial relevant professional experience and specialised training will be highly regarded.  Relevant certifications or Professional membership would be desirable
--	Substantial professional experience with security architecture, certification and accreditation
--	Experience in Government information assurance requirements including the Australian Government Information Security Manual (ISM) and Defence Security Principles Framework (DSPF)
--	Knowledge and exposure to systems and enterprise architecture, systems engineering, software and ICT engineering and interface protocols
--	Experience working on large, complex ICT projects and in Defence ICT.
+ 
+<h3>Skills, qualifications and experience required for the position:</h3>
+<p2>A Bachelor degree or higher in software engineering, computer science or a related discipline, together with substantial relevant professional experience and specialised training will be highly regarded.  Relevant certifications or Professional membership would be desirable</p2>
+<ul>
+ <li>Substantial professional experience with security architecture, certification and accreditation</li>
+<li>Experience in Government information assurance requirements including the Australian Government Information Security Manual (ISM) and Defence Security Principles Framework (DSPF)</li>
+<li>Knowledge and exposure to systems and enterprise architecture, systems engineering, software and ICT engineering and interface protocols</li>
+<li>Experience working on large, complex ICT projects and in Defence ICT.</li>
+ <li>hold a NV1 Australian Government Security Clearance and be eligible to upgrade to NV2</li>
+ </ul>
 
-hold a NV1 Australian Government Security Clearance and be eligible to upgrade to NV2
-
-## Skills, qualifications and experience i currently have: 
+<h3>Skills, qualifications and experience i currently have:<h3> 
 None of the above qualifications 
 
 I hold a NV1 security clearance with Australian Government Security Clearance
