@@ -6,7 +6,7 @@
 
 <h1>Name: Corey Brown</h1>
 <h2>Student #: S3883858</h2>
-<h2>Student email:s3883858@student.rmit.edu.au</h2>
+<h2>Student email: s3883858@student.rmit.edu.au</h2>
 
 <head>Background information:</head>
 
@@ -34,7 +34,6 @@
 <li>Glock armorer’s certificate</li> 
 <li>Digital Forensic Examination Document Examination</li>
 </ul>
-
 
 <h1>What is your interest in IT? and When did your interest in IT start?</h1>
 
@@ -71,6 +70,7 @@ In a group setting I see the end goal and work my way back on how to achieve tha
 Dedicated to task management and am rational about outcomes and what is viable.
 I have a keen eye for detail, hardworking and am able to get everyone on task if need be</p3>
 </body>
+
 <body2>
 <a href="https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1">Learing Styles Test Results</a> 
  
@@ -83,6 +83,7 @@ I have a keen eye for detail, hardworking and am able to get everyone on task if
 <h2>Q) How should you take this into account when forming a team?</h2>
 <p3>I am well rounded in all three learning styles so I can fit into any group and make it work</p3>
 </body2>
+
 <body3>
 <a href="https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM">Carecareers Test Results</a>
 
@@ -96,50 +97,54 @@ I do like details, data, filtering through things and organisation</p1>
 <h2>Q) How should you take this into account when forming a team?</h2>
 <p3>I can fit into any team and fill any role that is required, I do like things in order and have a bit of OCD when it comes to things being in order and presented correctly</p3>
 </body3>
-## Ideal Job:
 
-Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’.
+<h1>Ideal IT Job:</h1>
 
-# Penetration Tester...
+<p1>Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’</p1>.
+
+<h2>Penetration Tester</h2>
 
 [Link] (https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
 
-## Description of Job:
-Kinetic IT play a central role in defending some of Australia's most important organisations and the critical services they provide to our local communities by offerings to supportive approach to protecting our customers and their digital assets and the delivery of a wide range of security and risk assurance services
+<h3>Description of Job:</h3>
+<p1>Kinetic IT play a central role in defending some of Australia's most important organisations and the critical services they provide to our local communities by offerings to supportive approach to protecting our customers and their digital assets and the delivery of a wide range of security and risk assurance services
 
-The Job advertised is for an additional Penetration Tester. To assist in attempting to breach computer and network security systems, delivering clear, articulate reports, and spending time researching vulnerabilities and creating tools to assist with improving the security posture of our customers.
+The Job advertised is for an additional Penetration Tester. To assist in attempting to breach computer and network security systems, delivering clear, articulate reports, and spending time researching vulnerabilities and creating tools to assist with improving the security posture of our customers.</p1>
 
-## Skills, qualifications and experience required for the position:
-- Great communication skills, able to communicate with confidence to stakeholders
-- The application of penetration testing equipment 
-- Lateral thinking and problem solving skills
-- Developed Analytical skills
-- A passion for Cyber Security and the ability to clearly articulate security concepts to others
-- A solid understanding and experience in ethical hacking
-- Excellent written and verbal communication skills
-- Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded
+<h3>Skills, qualifications and experience required for the position:</h3>
+<ul>
+ <li>Great communication skills, able to communicate with confidence to stakeholders</li>
+<li>The application of penetration testing equipment</li> 
+<li>Lateral thinking and problem solving skills</li>
+<li>Developed Analytical skills</li>
+<li>A passion for Cyber Security and the ability to clearly articulate security concepts to others</li>
+<li>A solid understanding and experience in ethical hacking</li>
+<li>Excellent written and verbal communication skills</li>
+<li>Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded</li>
+ </ul>
 
-## Skills, qualifications and experience I currently have: 
-All of the above bar the skill IT specifics and qualifications
+<h3>Skills, qualifications and experience I currently have:</h3> 
+<p3>All of the above bar the skill IT specifics and qualifications
 Knowledge and application skills of penetration testing
 A solid understanding and experience in ethical hacking
 And
-Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded
+Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded</p3>
 
-# Security Architect (Cyber)
+<h2>Security Architect (Cyber)</h2>
 [link] (https://www.seek.com.au/job/51106656?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
 
-## Description of Job:
-work on high profile, complex projects for the Department of Defence
-As a Security Architect you will be responsible for managing the security design leading to accreditation and certification of software systems. You will:
--	Manage the security architecture of the solution design, including the integration with security models of external systems in conjunction with the Chief Security Architect
--	Contribute to design decisions associated with security architecture and security controls
--	Ensure that system security requirements are managed and addressed throughout the system life-cycle thereby ensuring system security compliance and approval for system operation
--	Achieve certification and accreditation of the solution through ensuring the security architecture is consistent and adequately represented in the certification and accreditation process
--	Participate in system change reviews to assess the security impact of those changes
--	Build and maintain effective working relationships across all levels and influence key stakeholders
--	Understand industry best-practice through attending relevant cyber security events and establishing a peer network.  
-
+<h3> Description of Job:<h3>
+<p4>work on high profile, complex projects for the Department of Defence
+As a Security Architect you will be responsible for managing the security design leading to accreditation and certification of software systems. You will:</p4>
+ <ul>
+<li>Manage the security architecture of the solution design, including the integration with security models of external systems in conjunction with the Chief Security Architect</li>
+<li>Contribute to design decisions associated with security architecture and security controls</li>
+<li>Ensure that system security requirements are managed and addressed throughout the system life-cycle thereby ensuring system security compliance and approval for system operation</li>
+<li>Achieve certification and accreditation of the solution through ensuring the security architecture is consistent and adequately represented in the certification and accreditation process</li>
+<li>Participate in system change reviews to assess the security impact of those changes</li>
+<li>Build and maintain effective working relationships across all levels and influence key stakeholders</li>
+<li>Understand industry best-practice through attending relevant cyber security events and establishing a peer networ.</li>  
+ </ul>
 ## Skills, qualifications and experience required for the position:
 A Bachelor degree or higher in software engineering, computer science or a related discipline, together with substantial relevant professional experience and specialised training will be highly regarded.  Relevant certifications or Professional membership would be desirable
 -	Substantial professional experience with security architecture, certification and accreditation
