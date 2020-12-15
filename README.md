@@ -104,6 +104,7 @@ I do like details, data, filtering through things and organisation</p1>
 <p1>Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’</p1>.
 
 <h2>Penetration Tester</h2>
+<img src="Leidos.JPG" alt="company logo">
 
 <a href="https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc">Seek.com.au</a>
 
@@ -132,8 +133,8 @@ And
 Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded</p3>
 
 <h2>Security Architect (Cyber)</h2>
-
-<a href="https://www.seek.com.au/job/51106656?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc">seek.com.au</a>
+<img src="Leidos.JPG" alt="company logo">
+<a href="https://www.seek.com.au/job/51106656?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc">seek.com.au</a> 
 
 <h3> Description of Job:</h3>
 <p1>work on high profile, complex projects for the Department of Defence
