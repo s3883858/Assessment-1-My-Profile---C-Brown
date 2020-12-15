@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
  
  <head>
@@ -7,13 +6,17 @@
   
 ![](2999AC0252246544178_P.jpg)
 
-<title>Name: Corey Brown</title> 
-<title>Student #: S3883858</title>
-<title>Student email: s3883858@student.rmit.edu.au</title>
+Name: Corey Brown 
+
+<title1>Student #: S3883858</title1>
+
+<title3>Student email: s3883858@student.rmit.edu.au</title3>
 
 <head>Background information:</head>
 
-Nationality: Australian
+<ul>
+ <li>Nationality: Australian</li>
+ </ul>
 
 <head>Education to date:</head>
 <ul>
