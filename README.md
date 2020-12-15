@@ -81,7 +81,7 @@ I find that I am fairly balanced in all 3 learning styles and can change from on
 </p1>
 
 <h2>Q) How do you think these results may influence your behaviour in a team?</h2>
-<p2>My team needs to be able to articular things well and concisely so I can visualise things in my head</p2>
+<p2>My team needs to be able to articular things well and concisely so I can visualise things in my head, I like to see thing visually that will enable me to see what the person or team are trying to achieve.</p2>
 
 <h2>Q) How should you take this into account when forming a team?</h2>
 <p3>I am well rounded in all three learning styles so I can fit into any group and make it work</p3>
@@ -90,7 +90,7 @@ I find that I am fairly balanced in all 3 learning styles and can change from on
 
 <h2>Q) What do the results of these tests mean for you?</h2>
 <p1>I can be ambitious and do things because they are right, not because they are easy or popular at the time. I am driven once a project has commenced and I like to see it through to the end and get the job done.
-I do like details, data, filtering through things and organisation</p1>
+I do like details, data, filtering through things and organisation. I tend to have slight OCD and like things to be consistent, neat and professional, hence the role in administration came up.</p1>
 
 <h2>Q) How do you think these results may influence your behaviour in a team?</h2>
 <p2>I am an organiser and happy to take on this role if need be to get the team all on the same track to achieve our desired outcome.</p2>
@@ -126,11 +126,8 @@ I do like details, data, filtering through things and organisation</p1>
  </ul>
 
 <h3>Skills, qualifications and experience I currently have:</h3> 
-<p3>All of the above bar the skill IT specifics and qualifications
-Knowledge and application skills of penetration testing
-A solid understanding and experience in ethical hacking
-And
-Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded</p3>
+<p3>I am able to communicate effectively and confidently in both written and verbal settings
+Throughout my career as an Investigator, I have always had to be adaptive, think laterally and problem solve. I am very much analytical minded and enjoy sifting through data.</p3>
 
 
 <h2>Security Architect (Cyber)</h2>
