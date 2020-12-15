@@ -4,9 +4,7 @@
  <head>
  Welcome to my RMIT Assessment 1: MY PROFILE
 </head>
- 
- <body>
- 
+  
 ![](2999AC0252246544178_P.jpg)
 
 Name: Corey Brown
