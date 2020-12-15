@@ -4,7 +4,7 @@
  Welcome to my RMIT Assessment 1: MY PROFILE
 </head>
   
-![](2999AC0252246544178_P.jpg)
+<imag src="2999AC0252246544178_P.jpg">
 
 <h1>Name: Corey Brown</h1>
 <h2>Student #: S3883858</h2>
