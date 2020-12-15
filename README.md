@@ -2,7 +2,8 @@
  
 <h1>Welcome to my RMIT Assessment 1: MY PROFILE</h1>
 <style>
- h1 {color: red;}
+h1 {color: red;}
+ </style>
 <img src="2999AC0252246544178_P.jpg" alt="personal mug-shot">
 
 <h1>Name: Corey Brown</h1>
