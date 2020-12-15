@@ -63,14 +63,14 @@ Nationality: Australian
 <p2>The endless possibilities, looking back and seeing how IT is incorporating itself into every facet of life (both good and bad).
 I am a sci-fi enthusiast and love watching futurist movies to see how other may perceive the future becoming (albeit most of them are dire! But entertaining…)</p2>
 
-### What lead to me studying at RMIT:
-I Looked on open university and given I work full time and have 2 young kids the course had to be completely online (also covid-19 consideration) as well as several follow-on course that I am interest in after this course lead me to RMIT 
+<h3>What lead to me studying at RMIT:</h3>
+<p3>I Looked on open university and given I work full time and have 2 young kids the course had to be completely online (also covid-19 consideration) as well as several follow-on course that I am interest in after this course lead me to RMIT.</p3> 
 
-### What am I hoping or expecting to learn during my studies?
-I currently work very closely with several Digital forensic officers who I assist regularly with minor tasks. I wish to gain qualification to hopefully gain recognition for the work I do in the area and move beyond that to the world of cybersecurity, although I do not know what that may be or look like for me at this point in time. I am only study part-time so have a bit of time to work that out.
-I understand that a job in cybersecurity can be rewarding but very stressful at the same time, however in saying that I have worked in counter-terrorism roles which is extremely stressful which is not a job that you want to get wrong. I envisage cybersecurity to be much the same which for me would be a seamless transition.
+<h4>What am I hoping or expecting to learn during my studies?</h4>
+<p4>I currently work very closely with several Digital forensic officers who I assist regularly with minor tasks. I wish to gain qualification to hopefully gain recognition for the work I do in the area and move beyond that to the world of cybersecurity, although I do not know what that may be or look like for me at this point in time. I am only study part-time so have a bit of time to work that out.
+I understand that a job in cybersecurity can be rewarding but very stressful at the same time, however in saying that I have worked in counter-terrorism roles which is extremely stressful which is not a job that you want to get wrong. I envisage cybersecurity to be much the same which for me would be a seamless transition.</p4>
 
-# Personality Profile
+<h4>Personality Profile</h4>
 
 [Myer-Briggs Test Results] (https://www.16personalities.com/infj-personality) 
 
