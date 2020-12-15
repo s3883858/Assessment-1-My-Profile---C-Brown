@@ -6,11 +6,9 @@
   
 ![](2999AC0252246544178_P.jpg)
 
-Name: Corey Brown 
-
-<title1>Student #: S3883858</title1>
-
-<title3>Student email: s3883858@student.rmit.edu.au</title3>
+<h1>Name: Corey Brown</h1>
+<h2>Student #: S3883858</h2>
+<h2>Student email:s3883858@student.rmit.edu.au</h2>
 
 <head>Background information:</head>
 
