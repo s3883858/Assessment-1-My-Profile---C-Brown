@@ -162,3 +162,4 @@ As a Security Architect you will be responsible for managing the security design
 
 I currently possess none of the above qualifications as this is my first year and only started Introduction to IT, however I do hold a NV1 security clearance with Australian Government Security Clearance.
 
+</html>
