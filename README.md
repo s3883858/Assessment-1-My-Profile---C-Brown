@@ -7,11 +7,9 @@
   
 ![](2999AC0252246544178_P.jpg)
 
-Name: Corey Brown
-
-Student #: S3883858
-
-Student email: s3883858@student.rmit.edu.au
+<title>Name: Corey Brown</title> 
+<title>Student #: S3883858</title>
+<title>Student email: s3883858@student.rmit.edu.au</title>
 
 <head>Background information:</head>
 
@@ -62,7 +60,7 @@ I understand that a job in cybersecurity can be rewarding but very stressful at 
 <body2>
 <h2>Personality Profile</h2>
 
-[Myer-Briggs Test Results]<ahref="https://www.16personalities.com/infj-personality</a> 
+[Myer-Briggs Test Results]<a href="https://www.16personalities.com/infj-personality" 
 
 <h2>Q) What do the results of these tests mean for you?</h2>
 <p1>It cements what I think and feel quite often and is scary that a few questions can provide such a details accurate description of my personality.
