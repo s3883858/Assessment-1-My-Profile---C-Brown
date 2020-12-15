@@ -134,7 +134,7 @@ Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded<
 
 <a href="https://www.seek.com.au/job/51106656?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc">seek.com.au</a>
 
-<h3> Description of Job:<h3>
+<h3> Description of Job:</h3>
 <p1>work on high profile, complex projects for the Department of Defence
 As a Security Architect you will be responsible for managing the security design leading to accreditation and certification of software systems. You will:</p1>
  
