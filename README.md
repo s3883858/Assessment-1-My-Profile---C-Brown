@@ -60,7 +60,7 @@ I understand that a job in cybersecurity can be rewarding but very stressful at 
 <body2>
 <h2>Personality Profile</h2>
 
-[Myer-Briggs Test Results]<a href="https://www.16personalities.com/infj-personality" 
+<a href="https://www.16personalities.com/infj-personality">Myer-Briggs Test Results</a> 
 
 <h2>Q) What do the results of these tests mean for you?</h2>
 <p1>It cements what I think and feel quite often and is scary that a few questions can provide such a details accurate description of my personality.
@@ -77,7 +77,7 @@ Dedicated to task management and am rational about outcomes and what is viable.
 I have a keen eye for detail, hardworking and am able to get everyone on task if need be</p3>
 
 
-[Learing Styles Test Results] (https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1) 
+<a href="https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1">Learing Styles Test Results</a> 
  
 ### Q) What do the results of these tests mean for you?
 Agreed, I prefer to lean by seeing and doing
@@ -88,8 +88,7 @@ My team needs to be able to articular things well and concisely so I can visuali
 ### Q) How should you take this into account when forming a team?
 I am well rounded in all three learning styles so I can fit into any group and make it work
 
- 
-[Carecareers Test Results] (https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM)
+<a href="https://www.carecareers.com.au/quiz/result/id/1388663/token/1894293a#.X9CqANgzaiM">Carecareers Test Results</a>
 
 ### Q) What do the results of these tests mean for you?
 I can be ambitious and do things because they are right, not because they are easy or popular at the time. I am driven once a project has commenced and I like to see it through to the end and get the job done.
