@@ -110,9 +110,9 @@ I do like details, data, filtering through things and organisation</p1>
 <a href="https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc">Seek.com.au</a>
 
 <h3>Description of Job:</h3>
-<p1>Kinetic IT play a central role in defending some of Australia's most important organisations and the critical services they provide to our local communities by offerings to supportive approach to protecting our customers and their digital assets and the delivery of a wide range of security and risk assurance services
+<p1>Kinetic IT play a central role in defending some of Australia's most important organisations and the critical services they provide to our local communities by offerings to supportive approach to protecting our customers and their digital assets and the delivery of a wide range of security and risk assurance services</p1>
 
-The Job advertised is for an additional Penetration Tester. To assist in attempting to breach computer and network security systems, delivering clear, articulate reports, and spending time researching vulnerabilities and creating tools to assist with improving the security posture of our customers.</p1>
+<p2>The Job advertised is for an additional Penetration Tester. To assist in attempting to breach computer and network security systems, delivering clear, articulate reports, and spending time researching vulnerabilities and creating tools to assist with improving the security posture of our customers.</p2>
 
 <h3>Skills, qualifications and experience required for the position:</h3>
 <ul>
