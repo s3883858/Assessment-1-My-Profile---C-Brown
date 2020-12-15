@@ -135,8 +135,8 @@ Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded<
 <a href="https://www.seek.com.au/job/51106656?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc">seek.com.au</a>
 
 <h3> Description of Job:<h3>
-<p3>work on high profile, complex projects for the Department of Defence
-As a Security Architect you will be responsible for managing the security design leading to accreditation and certification of software systems. You will:</p3>
+<p1>work on high profile, complex projects for the Department of Defence
+As a Security Architect you will be responsible for managing the security design leading to accreditation and certification of software systems. You will:</p1>
  
  <ul>
 <li>Manage the security architecture of the solution design, including the integration with security models of external systems in conjunction with the Chief Security Architect</li>
@@ -161,5 +161,6 @@ As a Security Architect you will be responsible for managing the security design
 <h3>Skills, qualifications and experience i currently have:<h3> 
  <p1>None of the above qualifications</p1>
 <p2>I hold a NV1 security clearance with Australian Government Security Clearance</p2>
+
 
 </html>
