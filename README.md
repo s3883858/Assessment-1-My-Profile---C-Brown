@@ -104,7 +104,7 @@ I do like details, data, filtering through things and organisation</p1>
 
 <h2>Penetration Tester</h2>
 
-[Link] (https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
+<a href="https://www.seek.com.au/job/51096537?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc">Seek.com.au</a>
 
 <h3>Description of Job:</h3>
 <p1>Kinetic IT play a central role in defending some of Australia's most important organisations and the critical services they provide to our local communities by offerings to supportive approach to protecting our customers and their digital assets and the delivery of a wide range of security and risk assurance services
@@ -131,7 +131,8 @@ And
 Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded</p3>
 
 <h2>Security Architect (Cyber)</h2>
-[link] (https://www.seek.com.au/job/51106656?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc)
+
+<a href="https://www.seek.com.au/job/51106656?type=standout#searchRequestToken=0c22c28c-b892-4733-816e-ee16abe266dc">seek.com.au</a>
 
 <h3> Description of Job:<h3>
 <p3>work on high profile, complex projects for the Department of Defence
@@ -158,8 +159,7 @@ As a Security Architect you will be responsible for managing the security design
  </ul>
 
 <h3>Skills, qualifications and experience i currently have:<h3> 
-<p1PNone of the above qualifications 
-
-I hold a NV1 security clearance with Australian Government Security Clearance</p1>
+ <p1>None of the above qualifications</p1>
+<p2>I hold a NV1 security clearance with Australian Government Security Clearance</p2>
 
 </html>
