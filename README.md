@@ -65,13 +65,13 @@ I know my strengths and weaknesses and what to be aware of and why I do the thin
 </p1>
 
 <h2>Q) How do you think these results may influence your behaviour in a team?</h2>
-<p2>I am adaptive to all situation and am happy to work with what I have or the status quo if I feel the same, however I am happy to speak up which can cause issues or rifts.
-In a group setting I see the end goal and work my way back on how to achieve that goal where as others may not see that far ahead.</p2>
+<p2>I am adaptive to all situation and am happy to work with what I have or the status quo if I feel the same, however I am happy to speak up which can cause issues or rifts. I prefer a group that is dedicated and want to get the job done. I struggle with incompetents or lazy people; I will help people who want to be helped but if push come to shove and prefer to get rid of the dead weight and do the work myself then create an argument. 
+In a group setting I see the end goal and work my way back on how to achieve that goal where as others may not see that far ahead. This can be frustrating as I sometime struggle to articulate what I am trying to say.
+I sometime come across to people as being confrontational or want to run things which is far from the truth, I just like to achieve efficiency and effectiveness as I have very limited time.</p2>
 
 <h2>Q) How should you take this into account when forming a team?</h2>
-<p3>I am adaptable and easy going
-Dedicated to task management and am rational about outcomes and what is viable.
-I have a keen eye for detail, hardworking and am able to get everyone on task if need be</p3>
+<p3>I am adaptable and easy going. I like working with likeminded people and possibly someone who is a bit further developed in the area as I am. I am a fast learner and that way I can learn of them</p3>
+<p3>I am dedicated to task management as my career revolves around it and am rational about outcomes and what is viable. This may lead to people thinking I am negative at time but I try to look at things from all angles. I have a keen eye for detail, hardworking and am able to get everyone on task if need be.</p3>
 
 <a href="https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1">Learing Styles Test Results</a> 
  
