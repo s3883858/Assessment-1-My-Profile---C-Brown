@@ -103,6 +103,7 @@ I do like details, data, filtering through things and organisation</p1>
 
 <p1>Ideal or Dream job may be working for the Australian Defense force, National Security Agency, Australian Secret Intelligence Service (ASIS) as a security analyst, Security Engineer or Security Architect and do some ‘white hat hacking’</p1>.
 
+
 <h2>Penetration Tester</h2>
 <img src="Protect Kinetic IT.JPG" alt="company logo">
 
@@ -131,6 +132,7 @@ Knowledge and application skills of penetration testing
 A solid understanding and experience in ethical hacking
 And
 Industry Certifications such as OSCP, OSWP, SANS, CREST will be highly regarded</p3>
+
 
 <h2>Security Architect (Cyber)</h2>
 <img src="Leidos.JPG" alt="company logo">
@@ -162,5 +164,5 @@ As a Security Architect you will be responsible for managing the security design
 
 <h3>Skills, qualifications and experience I currently have:<h3>
 
-<p1>I currently possess none of the above qualifications as this is my first year and only started Introduction to IT, however I do hold a NV1 security clearance with Australian Government Security Clearance.</p1>
+I currently possess none of the above qualifications as this is my first year and only started Introduction to IT, however I do hold a NV1 security clearance with Australian Government Security Clearance.
 
