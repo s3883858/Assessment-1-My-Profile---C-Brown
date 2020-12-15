@@ -41,8 +41,8 @@
 
 <h1>What makes IT interesting for you?</h1>
 
-<p2>The endless possibilities, looking back and seeing how IT is incorporating itself into every facet of life (both good and bad).
-I am a sci-fi enthusiast and love watching futurist movies to see how other may perceive the future becoming (albeit most of them are dire! But entertaining…)</p2>
+<p2>I am interested in IT because of its endless possibilities, looking back and seeing how IT is incorporating itself into every facet of life (both good and bad).
+I am a sci-fi enthusiast and love watching futurist movies to see how other may perceive the future becoming (albeit most of them are dire! But entertaining…) I work a lot with computers and digital forensics that very much interest me, taking computers apart, extracting the data and sifting through the copious amounts of data, the producing it in a way that a lay person can understand in a court of law interests me and I enjoy immensely. Just recently Anthony sent through the link to Scrimba.com which has very much intrigued me in web-design and syntax now…. Thankyou Anthony! So might try to develop something around an app…</p2>
 
 <h1>What lead to me studying at RMIT:</h1>
 
