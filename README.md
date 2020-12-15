@@ -159,6 +159,6 @@ As a Security Architect you will be responsible for managing the security design
  <li>hold a NV1 Australian Government Security Clearance and be eligible to upgrade to NV2</li>
  </ul>
 
-<h>Skills, qualifications and experience I currently have:<h>
+<h3>Skills, qualifications and experience I currently have:<h3>
 <p>I currently possess none of the above qualifications as this is my first year and only started Introduction to IT, however I do hold a NV1 security clearance with Australian Government Security Clearance.</p>
 
