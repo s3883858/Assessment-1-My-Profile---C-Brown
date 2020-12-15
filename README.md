@@ -18,40 +18,25 @@ Student email: s3883858@student.rmit.edu.au
 Nationality: Australian
 
 <head>Education to date:</head>
-
-•	Advanced Diploma in Public Safety (Police investigations)
-
-•	Detective Training Course 
-
-•	Diploma of Justice Administration
-
-•	Investigating Interviewing Level II
-
-•	Sergeants – Supervision Development Program
-
-•	Diploma of Public Safety (Policing)
-
-•	Operations Investigators Course
-
-•	Human Source Management 
-
-•	Certificate III in Government  
-
-•	Risk Assessment and Management
-
-•	Public Order Response (Riot training)
-
-•	Counter Terrorism Awareness Training 
-
-•	Operational Safety Training and Use of Force
-
-•	Tier 2 Cybercrime investigations course (AFP)
-
-•	Tactical Investigations Course – Warrant execution
-
-•	Glock armorer’s certificate 
-
-•	Digital Forensic Examination Document Examination
+<ul>
+ <li>Advanced Diploma in Public Safety (Police investigations)</li>
+<li>Detective Training Course</li>
+<li>Diploma of Justice Administration</li>
+<li>Investigating Interviewing Level II</li>
+<li>Sergeants – Supervision Development Program</li>
+<li>Diploma of Public Safety (Policing)</li>
+<li>Operations Investigators Course</li>
+<li>Human Source Management</li> 
+<li>Certificate III in Government</li> 
+<li>Risk Assessment and Management</li>
+<li>Public Order Response (Riot training)</li>
+<li>Counter Terrorism Awareness Training</li> 
+<li>Operational Safety Training and Use of Force</li>
+<li>Tier 2 Cybercrime investigations course (AFP)</li>
+<li>Tactical Investigations Course – Warrant execution</li>
+<li>Glock armorer’s certificate</li> 
+<li>Digital Forensic Examination Document Examination</li>
+</ul>
 <body>
 
 <h1>What is your interest in IT? and When did your interest in IT start?</h1>
@@ -74,22 +59,24 @@ I understand that a job in cybersecurity can be rewarding but very stressful at 
 
 </body>
 
+<body2>
 <h2>Personality Profile</h2>
 
 [Myer-Briggs Test Results] (https://www.16personalities.com/infj-personality) 
 
-### Q) What do the results of these tests mean for you?
-It cements what I think and feel quite often and is scary that a few questions can provide such a details accurate description of my personality.
-I know my strengths and weaknesses and what to be aware of and why I do the things that I do
+<h2>Q) What do the results of these tests mean for you?</h2>
+<p1>It cements what I think and feel quite often and is scary that a few questions can provide such a details accurate description of my personality.
+ I know my strengths and weaknesses and what to be aware of and why I do the things that I do</p1>
 
-### Q) How do you think these results may influence your behaviour in a team?
-I am adaptive to all situation and am happy to work with what I have or the status quo if I feel the same, however I am happy to speak up which can cause issues or rifts.
-In a group setting I see the end goal and work my way back on how to achieve that goal where as others may not see that far ahead.
+<h2>Q) How do you think these results may influence your behaviour in a team?</h2>
 
-### Q) How should you take this into account when forming a team?
-I am adaptable and easy going
+<p2>I am adaptive to all situation and am happy to work with what I have or the status quo if I feel the same, however I am happy to speak up which can cause issues or rifts.
+In a group setting I see the end goal and work my way back on how to achieve that goal where as others may not see that far ahead.</p2>
+
+<h2>Q) How should you take this into account when forming a team?</h2>
+<p3>I am adaptable and easy going
 Dedicated to task management and am rational about outcomes and what is viable.
-I have a keen eye for detail, hardworking and am able to get everyone on task if need be
+I have a keen eye for detail, hardworking and am able to get everyone on task if need be</p3>
 
 
 [Learing Styles Test Results] (https://personalitymax.com/report/?ls=72-62-67&name_key=c17be251d1) 
@@ -116,6 +103,7 @@ I am an organiser and happy to take on this role if need be to get the team all 
 ### Q) How should you take this into account when forming a team?
 I can fit into any team and fill any role that is required, I do like things in order and have a bit of OCD when it comes to things being in order and presented correctly
 
+</body2>
  
 ## Ideal Job:
 
