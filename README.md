@@ -160,8 +160,9 @@ As a Security Architect you will be responsible for managing the security design
  </ul>
 
 <h3>Skills, qualifications and experience I currently have:<h3>
- <ul>
- <li>None of the above qualifications</il>
- <li>I hold a NV1 security clearance with Australian Government Security Clearance</li>
- </ul>
+ 
+<ul>
+<li>None of the above qualifications</il>
+<li>I hold a NV1 security clearance with Australian Government Security Clearance</li>
+</ul>
 
