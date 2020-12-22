@@ -15,10 +15,10 @@
  <li>Nationality: Australian</li>
  </ul>
 
-<h1>Fun fact about myself</h1>
+<h2>Fun fact about myself</h2>
 <p1>As shameful as this is, I cannot crack an egg properly to save myself. I either break the yoke or get shell in it. My 5 year old daughter now puts me to shame and tries to teach me….</p1>
 
-<head>Education to date:</head>
+<hh2>Education to date:</h2>
 <ul>
  <li>Advanced Diploma in Public Safety (Police investigations)</li>
 <li>Detective Training Course</li>
