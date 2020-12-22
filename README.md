@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!DOCTYPEhtml>
+
 <html>
  <body>
 <h1 style="color: red;">Welcome to my RMIT Assessment 1: MY PROFILE</h1>
